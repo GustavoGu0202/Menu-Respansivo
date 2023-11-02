@@ -1,0 +1,34 @@
+
+
+
+@media screen  and (max-width:768px) {
+    main{
+        background-color: pink;
+    }
+    
+}
+
+@media screen and (min-width: 768px) {
+    #icon{
+        display: none;
+    }
+
+    #itens{
+        display: block;
+    }
+
+    main{
+        width: 600px;
+        background-color: aqua;
+        display: block;
+    }
+
+    #itens li{
+        display: inline-block;
+    }
+
+    #itens a{
+        background-color: black;
+    }
+    
+}
