@@ -21,6 +21,11 @@ header h1{
    
 }
 
+header a{
+    color: white;
+    text-decoration: none;
+}
+
 #icon{
     margin: 16px 10px;
     display: block;
@@ -62,6 +67,7 @@ header h1{
 #botoes a:hover{
     background-color: white;
     color: black;
+    transition: 1.7s;
 }
 
 main{
