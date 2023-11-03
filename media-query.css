@@ -40,5 +40,10 @@
   #botoes a{
     border: none;
   }
+
+  main{
+    width: 650px;
+
+  }
     
 }
